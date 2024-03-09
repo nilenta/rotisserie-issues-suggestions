@@ -1,4 +1,4 @@
-# rotisserie-issues-suggestions
+# Rotisserie issues & suggestions
 
 This is a repo specifically for issues or suggestions.
 
@@ -6,10 +6,10 @@ Suggestions can be custom stuff, like QoL or stuff like that.
 
 Issues can be stuff like broken stuff that doesn't work.
 
-# already acknowledged issues
+# Already acknowledged issues
 
 - Site not showing properly on mobile
 
-# stuff i will not add
+# Stuff I will not add
 
 - Nothing here for now.
